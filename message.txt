@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+ HEAD
 Change from main
-=======
+
 Message from main feature branch
->>>>>>> parent of 1446016 (Change message in feature-improvement)
+ parent of 1446016 (Change message in feature-improvement)
